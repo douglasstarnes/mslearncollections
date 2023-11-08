@@ -1,3 +1,5 @@
+### These are collections I have created on Microsoft Learn with resources for Azure certification exams.
+
 AZ-104 - https://learn.microsoft.com/en-us/collections/odr5b768xw566o?&sharingId=DT-MVP-5003747 
 
 AZ-204 - https://learn.microsoft.com/en-us/collections/3n70tpm0dk7qjm?&sharingId=DT-MVP-5003747 
